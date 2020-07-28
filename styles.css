@@ -21,6 +21,7 @@ html{
 .nav-item-all{
     background-color: #081f62;
     display:flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
     list-style-type: none;
