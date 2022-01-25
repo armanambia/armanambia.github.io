@@ -94,6 +94,7 @@ html{
     align-items: stretch;
     color: #e7e9f0;
     margin: 20px;
+    padding: 10px;
 }
 
 .image{
@@ -435,7 +436,7 @@ html{
 
 @media only screen and (max-width: 700px) {
     .background {
-        height: 2200px;
+        height: 2100px;
     }
     #about{
         flex-direction: column;
@@ -513,7 +514,7 @@ html{
         text-align: center;
         background-color:  rgba(8,31,98);
         border-radius: 25px;
-        height: 30rem;
+        height: 600px;
     }
     
     .csuf-text{
