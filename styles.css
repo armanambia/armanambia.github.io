@@ -435,7 +435,7 @@ html{
 
 @media only screen and (max-width: 700px) {
     .background {
-        height: 2100px;
+        height: 2200px;
     }
     #about{
         flex-direction: column;
@@ -505,6 +505,15 @@ html{
         flex-direction: column;
         justify-content: center;
         
+    }
+    .extra-text{
+        margin-top: 20px;
+        color: #e7e9f0;
+        padding: 15px;
+        text-align: center;
+        background-color:  rgba(8,31,98);
+        border-radius: 25px;
+        height: 30rem;
     }
     
     .csuf-text{
